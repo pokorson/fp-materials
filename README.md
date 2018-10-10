@@ -17,6 +17,7 @@ Materials for learning functional programming (mostly with JS focus)
 
 
 ## Advanced
+[Lambda calculus in javascript](https://www.youtube.com/watch?v=3VQ382QG-y4)
 
 [Bartosz Milewski - Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
