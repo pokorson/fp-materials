@@ -3,7 +3,7 @@ Materials for learning functional programming (mostly with JS focus)
 
 ## Basics
 
-[mostly-adequate-guide](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+[mostly-adequate-guide](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 
 [professor frisby egghead course](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 
