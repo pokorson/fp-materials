@@ -22,3 +22,5 @@ Materials for learning functional programming (mostly with JS focus)
 [Bartosz Milewski - Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
 [How to Bake Pi](https://books.google.com/books/about/How_to_Bake_Pi.html?id=vu3QDQAAQBAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false)
+
+[Bartosz Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf/)
