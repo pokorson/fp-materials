@@ -15,6 +15,8 @@ Materials for learning functional programming (mostly with JS focus)
 
 [Practical intro to monads in JS](https://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/)
 
+[Getting started with fp-ts](https://dev.to/gcanti/getting-started-with-fp-ts-setoid-39f3)
+
 
 ## Advanced
 [Lambda calculus in javascript](https://www.youtube.com/watch?v=3VQ382QG-y4)
